@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">👋 Olá! Meu nome é Erick, tenho 16 anos e sou apaixonado por tecnologia. Adoro explorar novas ideias, aprender sobre inovações e criar projetos que unam criatividade e impacto positivo. Meu objetivo é usar a tecnologia para transformar vidas e contribuir para um futuro mais inclusivo e sustentável. 🚀</p>
+<p align="center">👋 Olá! Meu nome é Erick, tenho 17 anos e sou apaixonado por tecnologia. Adoro explorar novas ideias, aprender sobre inovações e criar projetos que unam criatividade e impacto positivo. Meu objetivo é usar a tecnologia para transformar vidas e contribuir para um futuro mais inclusivo e sustentável. 🚀</p>
 
 ###
 
