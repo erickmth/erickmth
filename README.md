@@ -9,8 +9,14 @@
 <h2 align="left">Sobre mim</h2>
 
 ###
+<p align="center">
+📚 Atualmente estou aprendendo projetos IOT e integrações com Arduino <br>
+🎯 Objetivos: Usar a tecnologia para criar soluções inclusivas e sustentáveis <br>
+🎲 Curiosidade: Já criei um jogo no Roblox com mais de 59.000 entradas! 
+(Integrando Programação .LUA e Roblox Studio) 
+<a href="http://roblox.com/games/16233431433/NEW-Find-the-Button-2" target="_blank">🎮 Jogue aqui!</a>
+</p>
 
-<p align="center">📚 Atualmente estou aprendendo projetos IOT e integrações com Arduino  <br>🎯 Objetivos: Usar a tecnologia para criar soluções inclusivas e sustentáveis  <br>🎲 Curiosidade: Já criei um jogo no Roblox com mais de 59.000 entradas! (Intergrando Programação .LUA e Roblox Studio)</p>
 
 ###
 
